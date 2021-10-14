@@ -7,3 +7,5 @@ Matlab code to reproduce the numerical results in
  ArXiv link: https://arxiv.org/abs/2105.03425
 
 The script to run: demo_figure2.m
+
+Note: The 'imrotate' function requires Image Processing Toolbox of Matlab. https://www.mathworks.com/products/image.html
