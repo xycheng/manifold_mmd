@@ -1,4 +1,4 @@
-# Kernel MMD test power on high dimensional data lying on low-dimensional manifold
+Kernel MMD test power on high dimensional data lying on low-dimensional manifold
 
 Matlab code to reproduce the numerical results in
 
